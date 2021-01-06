@@ -100,14 +100,32 @@ section{
 #third-section{
     background-image: url("Images/bg.png");
     background-repeat: no-repeat;
+    background-size: cover;
     width: 60%;
     height: 150px;
     margin: 5% 20%;
 }
 .half-part{
     width:50%;
-    height: 150px;
     float:left;
+}
+#WE{
+    font-size: 30px;
+    font-weight: 500;
+    color:#ffffff;
+    margin-top:15%;
+    margin-left: 20% ;
+}
+#LC{
+    position: absolute; 
+    left: 800px;
+    top: 1975px;
+}
+.block{
+    
+    width: 45%;
+    float:left;
+    height: 100%;    
 }
 
 .icons{
