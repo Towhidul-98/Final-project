@@ -97,3 +97,34 @@ section{
 #pic-three{
     margin-right: 5%;
 }
+#third-section{
+    background-image: url("Images/bg.png");
+    background-repeat: no-repeat;
+    width: 60%;
+    height: 150px;
+    margin: 5% 20%;
+}
+.half-part{
+    width:50%;
+    height: 150px;
+    float:left;
+}
+
+.icons{
+    width:30px;
+    height: auto;
+}
+#stay{
+    font-size:120%;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0PX;
+    text-align: center;
+}
+#hello{
+    font-size: 150%;
+    margin: 0px;
+    text-align: center;
+}
+.image-align{
+    margin: 10px 46%;
+}
