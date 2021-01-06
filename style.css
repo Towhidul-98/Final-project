@@ -105,27 +105,20 @@ section{
     height: 150px;
     margin: 5% 20%;
 }
-.half-part{
-    width:50%;
-    float:left;
-}
 #WE{
+    display: inline block;
     font-size: 30px;
     font-weight: 500;
     color:#ffffff;
-    margin-top:15%;
-    margin-left: 20% ;
+    position: absolute; 
+    left: 350px;
+    top: 1950px;
 }
 #LC{
-    position: absolute; 
+    display:inline-block;
+    position: absolute;  
     left: 800px;
     top: 1975px;
-}
-.block{
-    
-    width: 45%;
-    float:left;
-    height: 100%;    
 }
 
 .icons{
